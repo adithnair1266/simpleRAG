@@ -1,6 +1,6 @@
 # Welcome to simpleRAG
 
-This is a simple web application that implements RAG (Retrieval-Augmentation-Generation) using a local LLM and the LangChain framework. You can upload any text-containing file (currently supporting .txt, .doc, .docx files) and ask relevant questions. Try it out yourself!
+This is a simple web application that implements RAG (Retrieval-Augmentation-Generation) using a local LLM and the LangChain framework. Uses React for front end and fastAPI for backend serves. You can upload any text-containing file (currently supporting .txt, .doc, .docx files) and ask relevant questions. Try it out yourself!
 
 ## Project Structure
 
